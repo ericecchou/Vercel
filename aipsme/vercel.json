@@ -1,6 +1,5 @@
 {
   "redirects": [
-	{"source": "","destination": "https://zlbk.net/old/","statusCode": 301}
     {"source": "/:slug","destination": "https://zlbk.net/old/:slug","statusCode": 301}
   ]
 }
